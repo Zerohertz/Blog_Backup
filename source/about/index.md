@@ -8,7 +8,7 @@ comments: false
 {% gdemo_terminal '안녕하세요. 오효근입니다!' '60px' 'Zerohertz' '300' '$' 'zerohertz' 'git' %}
 {% endgdemo_terminal %}
 
-&nbsp;
+<br/>
 
 <p align = "center">
     <a href="https://github.com/Zerohertz/Zerohertz/blob/main/CV.pdf">

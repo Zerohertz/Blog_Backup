@@ -1,8 +1,6 @@
 ---
 title: Unreal engine and C++ (2)
 date: 2019-02-11 17:20:12
-redirect_from:
-- /2019/02/11/unreal-engine-and-C-2/
 categories:
 - C, C++
 - Unreal Engine

@@ -1,8 +1,6 @@
 ---
 title: Exporting to Unreal Engine at 3ds Max by Datasmith
 date: 2018-10-25 13:26:50
-redirect_from:
-- /2018/10/25/exporting-to-unreal-engine-at-3ds-max-by-datasmith/
 categories:
 - C, C++
 - Unreal Engine

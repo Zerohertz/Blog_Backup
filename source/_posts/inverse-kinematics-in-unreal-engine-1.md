@@ -1,9 +1,6 @@
 ---
 title: Inverse Kinematics in Unreal engine (1)
 date: 2019-05-29 15:54:57
-redirect_from:
-- /2019/05/29/Inverse-Kinematics-in-Unreal-engine-1/
-- /2019/05/29/Inverse-Kinematics-in-Unreal-engine-1/
 categories:
 - C, C++
 - Unreal Engine

@@ -107,10 +107,10 @@ deploy:
   branch: master
 
 search:
-  path: search.xml
+  path: search.json
   field: all
-  format: html
   content: true
+  format: raw
 
 nofollow:
     enable: true

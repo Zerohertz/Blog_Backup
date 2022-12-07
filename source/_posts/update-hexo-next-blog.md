@@ -68,9 +68,18 @@ git clone https://github.com/next-theme/hexo-theme-next themes/next
 npm install hexo-deployer-git --save
 npm install hexo-generator-searchdb --save
 npm install hexo-related-posts --save
-npm install hexo-generator-sitemap --save
 npm install hexo-generator-seo-friendly-sitemap --save
 npm install hexo-generator-feed --save
+npm install hexo-autonofollow --save
+npm install hexo-auto-canonical --save
+npm install hexo-generator-robotstxt --save
 npm install hexo-word-counter --save
 npm install @heowc/hexo-tag-gdemo
 ~~~
+
+***
+
+# 유용한 글
+
+[skyksit](https://skyksit.com/categories/hexo/)
+[SEO](https://alleyful.github.io/2019/08/10/tools/hexo/hexo-guide-03/)

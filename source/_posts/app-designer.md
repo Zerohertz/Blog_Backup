@@ -4,10 +4,7 @@ date: 2021-01-20 11:39:36
 categories:
 - MATLAB
 tags:
-- Machine Learning
-- Deep Learning
 - MATLAB
-- Statistics
 mathjax: true
 ---
 # Plot Cam on App

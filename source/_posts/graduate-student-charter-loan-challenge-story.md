@@ -242,9 +242,12 @@ mathjax: true
 
 1. 2022/12/15 (목): 가계약금 300,000원 입금 완료
 2. 2022/12/17 (토) 11시 30분: 계약금 10,000,000원 입금 완료
-3. 2022/12/23 (금): 중도금 10,000,000원 입금 예정
+   + 확정일자 신청: [인터넷등기소](https://www.iros.go.kr/pos1/jsp/help2/jsp/006001001002.jsp)
+   + 임대차신고: [부동산거래관리시스템](https://rtms.molit.go.kr/index.do;jsessionid=pNHxjgKPWHBZLQGlKmlk23BpJn6c32JdC1fSdKRkNVw77YwxJQLh!1495707761!1599311379)
+3. 2022/12/23 (금): 중도금 10,000,000원 입금 완료
 4. 2023/01/18 (수): 대출 신청 예정
 5. 2023/02/17 (금): 잔금 180,000,000원 입금 예정
+   + 전입신고: [정부24](https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000016)
 
 ***
 
